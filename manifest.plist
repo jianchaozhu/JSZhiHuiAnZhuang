@@ -12,19 +12,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://101.95.142.42:8085/ios/JSSmartInstall.ipa</string>
+					<string>https://101.95.142.42:8085/JSSmartInstall.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://101.95.142.42:8085/ios/logo57.jpg</string>
+					<string>https://101.95.142.42:8085/logo57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://101.95.142.42:8085/ios/logo512.jpg</string>
+					<string>https://101.95.142.42:8085/logo512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
